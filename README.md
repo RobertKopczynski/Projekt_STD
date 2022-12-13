@@ -1,4 +1,4 @@
 # Projekt_STD
-Robert Kopczyński
+Robert Kopczynski
 Kacper Ruta
 Jakub Szafranek
